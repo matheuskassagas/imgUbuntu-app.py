@@ -39,6 +39,8 @@
 
 # 5º build 2x imagens pelo github actions.
 
+-
+
 # 6º push das 2x imagens para o dockerhub
 
 - docker login
