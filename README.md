@@ -38,6 +38,13 @@
 - docker-compose up -d
 
 # 5º build 2x imagens pelo github actions.
+- git checkout -b (nome branch)
+- git add .
+- git commit -m "...."
+- git push -u origin (nome branch)
+- acessa o repositorio 
+- da um pull 
+
 
 # 6º push das 2x imagens para o dockerhub
 
